@@ -3,17 +3,17 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Phil Merrell
+tagline: Building products
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Phil Merrell
+  email : philbot5000@gmail.com
+  github : philmerrell
   twitter : username
   feedburner : feedname
 
