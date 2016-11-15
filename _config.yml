@@ -14,8 +14,8 @@ author :
   name : Phil Merrell
   email : philbot5000@gmail.com
   github : philmerrell
-  twitter : username
-  feedburner : feedname
+  twitter : false
+  feedburner : false
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -94,16 +94,16 @@ JB :
   analytics :
     provider : google
     gauges :
-        site_id : 'SITE ID'
+        site_id : 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-87465003-1'
     getclicky :
       site_id : 
     mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+        token : 
     piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-        idsite : '1'                   # the id of the site on Piwik
+        baseURL :  # Piwik installation address (without protocol)
+        idsite :                    # the id of the site on Piwik
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
